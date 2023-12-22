@@ -10,7 +10,7 @@ Tips
      * Help people get to their classroom
           * _If you know where it is_
 #
-* [ ] Homework
+* [] Homework
   * [ ] Math HW
   * [ ] Science HW
   * [ ] LA HW
