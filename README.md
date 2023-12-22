@@ -1,4 +1,35 @@
-firstpage
+# Welcome to my website!
+## I currently live in Sammamish, WA with my family of four.
+### I made this website for tips on middle school and a self checklist for middle school.
+Tips
+* Don't argue with your teacher
+* Don't run around
+* Do things to help others
+     * Buying others lunch
+          * _If they dont have one_
+     * Help people get to their classroom
+          * _If you know where it is_
+#
+* [ ] Homework
+  * [ ] Math HW
+  * [ ] Science HW
+  * [ ] LA HW
+  * [ ] SS HW
+
+How many classes did you come early or on time?
+If yes then how many?
+* [ ] 1
+* [ ] 2
+* [ ] 3
+* [ ] 4
+* [ ] 5
+* [ ] 6
+
+### If you got 6 amazing job! If you didn't, you should try to be on time more.
+
+
+
+
 
 
 <!-- Headings -->
@@ -14,7 +45,7 @@ firstpage
 
 _This text_ is italic
 
-<!-- Storng -->
+<!-- Strong -->
 
 **This text** is italic
 
