@@ -1,4 +1,5 @@
 # Welcome to my website!
+hi
 ## I currently live in Sammamish, WA with my family of four.
 ### I made this website for tips on middle school and a self checklist for middle school.
 #### My name is Minh and I'm a 6th grade representative for my school.
